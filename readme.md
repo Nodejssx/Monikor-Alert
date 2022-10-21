@@ -1,4 +1,4 @@
-<h1 dir="auto">Haqqq Grafana Monitor Kurulum Rehberi</h1>
+<h1 dir="auto">Haqq Grafana Monitor Kurulum Rehberi</h1>
 <h2 dir="auto"><a id="user-content-&ouml;nkoşullar" class="anchor" href="https://github.com/Nodeist/Kurulumlar/tree/main/Haqq/Monitor#%C3%B6nko%C5%9Fullar" aria-hidden="true"></a>&Ouml;nkoşullar</h2>
 <h3 dir="auto"><a id="user-content-nodeunuzun-kurulu-olduğunu-sunucuya-exporter-y&uuml;kleyin" class="anchor" href="https://github.com/Nodeist/Kurulumlar/tree/main/Haqq/Monitor#nodeunuzun-kurulu-oldu%C4%9Funu-sunucuya-exporter-y%C3%BCkleyin" aria-hidden="true"></a>Node'unuzun kurulu olduğunu sunucuya&nbsp;<code>exporter</code>&nbsp;y&uuml;kleyin.</h3>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto">
